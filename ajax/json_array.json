@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "rolan",
+        "apellido": "piñeres",
+        "edad": 20
+    },
+    {
+        "nombre": "dario",
+        "apellido": "montoya",
+        "edad": 22
+    },
+    {
+        "nombre": "geral",
+        "apellido": "piñeres",
+        "edad": 29
+    },
+    {
+        "nombre": "alamed",
+        "apellido": "lope",
+        "edad": 40
+    }
+]
