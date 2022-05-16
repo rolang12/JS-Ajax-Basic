@@ -21,5 +21,24 @@ function unir(n1, n2) {
 
 var resul = unir(n1, n2);
 
+
+// *********************************
+
+// Para pasar el resto de parametros, solo debo colocar ... y
+// trae el resto de parametros como array
+
+// EN caso de que le quiera pasar un array, y los elementos que contiene sean los parametros
+// por serparado, solo le coloco los 3 puntos
+
+// function ejemplo(uno, dos) {
+//     console.log(uno, dos);
+// }
+
+// var eje = ['manzana', 'pera'];
+
+// ejemplo(...eje);
+
+// *********************************
+
 console.log(resul);
 alert(resul);
